@@ -1,1 +1,1 @@
-# rosalindgalgs
+# rosalind algos
